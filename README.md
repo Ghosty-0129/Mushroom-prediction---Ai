@@ -21,3 +21,6 @@ Backend: Flask (Python)
 Machine Learning: Google Colab, Scikit-learn, TensorFlow
 Dataset: Kaggle Mushroom Dataset
 This project demonstrates how machine learning can be integrated into web applications to create interactive and useful tools for real-world problems, such as identifying dangerous or safe mushrooms based on their characteristics.
+
+
+Deleted Ai model Since GIT has Upload limit U can find it here https://drive.google.com/drive/folders/18m4cOrlbpLxc4KbqSIqNDNcpy7-0RSpQ?usp=sharing
